@@ -1,0 +1,1 @@
+# myvenv\Scripts\activate to run in powershell 
