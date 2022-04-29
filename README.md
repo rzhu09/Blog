@@ -1,4 +1,5 @@
 --- Blog Site ---
+
 Guide Used:
 https://jeffkit.gitbooks.io/django-girls-tutorial/content/en/index.html
 
